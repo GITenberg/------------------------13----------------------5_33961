@@ -1,0 +1,43 @@
+_repo: '------------------------13----------------------5_33961'
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Damiralis, Michael
+    alias: Δαμιράλη, Μιχαήλ
+    birthdate: 1892
+    deathdate: 1941
+    gutenberg_agent_id: '36675'
+    url: http://www.gutenberg.org/2009/agents/36675
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: 'Translation of: Antony and Cleopatra'
+gutenberg_issued: '2010-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33961'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cleopatra, Queen of Egypt, -30 B.C. -- Drama'
+- !lcsh 'Rome -- History -- Civil War, 43-31 B.C. -- Drama'
+- !lcsh 'Antonius, Marcus, 83?-30 B.C. -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- !lcsh 'Queens -- Egypt -- Drama'
+- !lcsh 'Generals -- Rome -- Drama'
+title: "Αντώνιος και Κλεοπάτρα\r\nΤραγωδία εις πράξεις 5"
+url: http://www.gutenberg.org/ebooks/33961
